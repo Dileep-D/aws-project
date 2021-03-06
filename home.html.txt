@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>home page</h1>
+<p>Devops project</p>
+</body>
+</html>
